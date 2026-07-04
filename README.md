@@ -55,7 +55,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   [git clone https://github.com/Kkumarprajapati/Nestur-major-project.git](https://github.com/shivam-maurya07/Nestur-home-rental-webApp)
+   [git clone https://github.com/shivam-maurya07/Nestur-home-rental-webApp]
    cd Nestur-major-project
    ```
 
